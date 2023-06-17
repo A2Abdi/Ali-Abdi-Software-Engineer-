@@ -1,6 +1,18 @@
+@font-face {
+  font-family: 'shahbaz';
+  src:  './shahbaz.eot?brk38b';
+  src:  './shahbaz.eot?brk38b#iefix' format('embedded-opentype'),
+    './shahbaz.ttf?brk38b' format('truetype'),
+    'fonts/shahbaz.woff?brk38b' format('woff'),
+    'fonts/shahbaz.svg?brk38b#shahbaz' format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
 
   [class^="icon-"], [class*=" icon-"] {
     /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'shahbaz';
     font-style: normal;
     font-weight: normal;
     font-variant: normal;

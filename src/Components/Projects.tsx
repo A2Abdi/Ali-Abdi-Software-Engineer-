@@ -1,3 +1,5 @@
+import Identify from './Images/Identify.png'
+import DrawDoodle from './Images/DrawDoodle.png'
 function Projects(){
     return(
         <section className="content content--section content--columns" id="projects">
@@ -6,23 +8,19 @@ function Projects(){
                 <div className="projects-item--container projects-item--first">
                     <a>
                         <div className="projects-item--img">
-                            <img src="img/projects/workway/workway.png" alt="Workway header" className="projects-item--img--anim"/>
+                            <img src={Identify} className="projects-item--img--anim"/>
                         </div>
-                        Workway
+                        IDENTIYY
                         <br/>
                     </a>
-                        <span className="color_gold">WINNER</span>
-                <span className="text_secondary">Android app incentivising users to share their work among their peers through the use a cryptocurrency.</span>
+                <span className="text_secondary">An application that captures people when that captures cars and people when passing through .</span>
                     <div className="projects-item--tech">
-                        <a href="https://www.android.com/">android</a>
-                        <a href="https://kotlinlang.org/">kotlin</a>
-                        <a href="http://reactivex.io/">rxjava</a>
-                        <a href="https://www.mongodb.com/">mongodb</a>
-                        <a href="https://firebase.google.com/">firebase</a>
-                        <a href="https://www.algolia.com/">algolia_search</a>
+                        <a href="https://opencv.org/" target='_blank'>OpenCV</a>
+                        <a href="https://www.python.org/" target='_blank'>Python</a>
+                        <a href="https://www.mongodb.com/atlas" target='_blank'>MongoDB Atlas</a>
                     </div>
                     <div className="projects-item--actions">
-                        <a href="https://github.com/A2Abdi" className="projects-item--action">
+                        <a href="https://github.com/A2Abdi/Ali-Abdi-Software-Engineer-" className="projects-item--action">
                             <i className="icon-github"></i>
                         </a>
                         <a href="https://www.youtube.com/watch?v=Lvpf8e1QM44" className="projects-item--action">
@@ -30,7 +28,30 @@ function Projects(){
                             </a>
                     </div>
                     </div>
+                <div className="projects-item--container">
+                    <a>
+                        <div className="projects-item--img">
+                            <img src={DrawDoodle} className="projects-item--img--anim"/>
+                        </div>
+                        DrawDoodle
+                        <br/>
+                    </a>
+                <span className="text_secondary">An application that captures and predicts numbers/drawings of other peoples Hand writing</span>
+                    <div className="projects-item--tech">
+                        <a href="https://www.python.org/" target='_blank'>Python</a>
+                        <a href="https://www.anaconda.com/" target='_blank'>Anaconda</a>
+                        <a href="https://www.redhat.com/en/blog/what-aiml-and-why-does-it-matter-your-business" target='_blank'>ML/AI</a>
+                    </div>
+                    <div className="projects-item--actions">
+                        <a href="https://github.com/A2Abdi/Ali-Abdi-Software-Engineer-" className="projects-item--action">
+                            <i className="icon-github"></i>
+                        </a>
+                        <a href="https://www.youtube.com/watch?v=Lvpf8e1QM44" className="projects-item--action">
+                                <i className="icon-youtube"></i>
+                            </a>
+                    </div>
                 </div>
+            </div>
             </section>
     )
 }
