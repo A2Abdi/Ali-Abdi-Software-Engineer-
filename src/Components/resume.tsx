@@ -48,22 +48,7 @@ function Resume() {
                     </p>
                     <p className="inverse-body">
                         Assisted patrons with the use of library databases, computer equipment, software, and processed patrons' requested material.<br/>
-                        Inducted, informed and supported new users with thorough library orientation<br/>
-                        Organized library shelves, materials and equipment in clear, alphabetized order.
-                    </p>
-                </div>
-                <div className="content--experience-container">
-                    <p className="inverse-body small-line-height">
-                        <a className="content--experience-title" href="https://www.traderev.com/">TradeRev</a>
-                        <span className="content--experience-middot">·</span>
-                        <span className="content--experience-position">Software Engineering</span>
-                    </p>
-                    <p className="inverse-body">
-                        <span className="content--experience-subtitle">Winter 2020</span>
-                    </p>
-                    <p className="inverse-body">
-                        Led effort to rewrite Android app and backend APIs from the ground up, leveraging Kotlin, Spring Boot, Kafka streams, and MVVM architecture resulting in a 13% increase in user retention through Android client.
-                    </p>
+                        Inducted, informed and supported new users with thorough library orientation</p>
                 </div>
         </div>
     )

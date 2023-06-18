@@ -10,7 +10,7 @@ function Projects(){
                         <div className="projects-item--img">
                             <img src={Identify} className="projects-item--img--anim"/>
                         </div>
-                        IDENTIYY
+                        <a href = "https://github.com/A2Abdi/Hackaton" target='_blank'>IDENTIYY</a>
                         <br/>
                     </a>
                 <span className="text_secondary">An application that captures people when that captures cars and people when passing through .</span>
@@ -19,21 +19,13 @@ function Projects(){
                         <a href="https://www.python.org/" target='_blank'>Python</a>
                         <a href="https://www.mongodb.com/atlas" target='_blank'>MongoDB Atlas</a>
                     </div>
-                    <div className="projects-item--actions">
-                        <a href="https://github.com/A2Abdi/Ali-Abdi-Software-Engineer-" className="projects-item--action">
-                            <i className="icon-github"></i>
-                        </a>
-                        <a href="https://www.youtube.com/watch?v=Lvpf8e1QM44" className="projects-item--action">
-                                <i className="icon-youtube"></i>
-                            </a>
-                    </div>
                     </div>
                 <div className="projects-item--container">
                     <a>
                         <div className="projects-item--img">
                             <img src={DrawDoodle} className="projects-item--img--anim"/>
                         </div>
-                        DrawDoodle
+                        <a href = "https://github.com/A2Abdi/Hackaton">DrawDoodle</a>
                         <br/>
                     </a>
                 <span className="text_secondary">An application that captures and predicts numbers/drawings of other peoples Hand writing</span>
@@ -42,13 +34,23 @@ function Projects(){
                         <a href="https://www.anaconda.com/" target='_blank'>Anaconda</a>
                         <a href="https://www.redhat.com/en/blog/what-aiml-and-why-does-it-matter-your-business" target='_blank'>ML/AI</a>
                     </div>
-                    <div className="projects-item--actions">
-                        <a href="https://github.com/A2Abdi/Ali-Abdi-Software-Engineer-" className="projects-item--action">
-                            <i className="icon-github"></i>
-                        </a>
-                        <a href="https://www.youtube.com/watch?v=Lvpf8e1QM44" className="projects-item--action">
-                                <i className="icon-youtube"></i>
-                            </a>
+                </div>
+
+                <div className="projects-item--container">
+                    <a>
+                        <div className="projects-item--img">
+                            <img src={DrawDoodle} className="projects-item--img--anim"/>
+                        </div>
+                        <a href = "https://github.com/A2Abdi/Hackaton">MotoShop</a>
+                        <br/>
+                    </a>
+                <span className="text_secondary">A web shop that sells motorcycle parts and maintainance equipment</span>
+                    <div className="projects-item--tech">
+                        <a href="https://angular.io/" target='_blank'>Angular</a>
+                        <a href="https://nodejs.org/en" target='_blank'>NodeJS</a>
+                        <a href="https://www.typescriptlang.org/" target='_blank'>Typescript</a>
+                        <a href="https://firebase.google.com/" target='_blank'>Firebase</a>
+                        <a href="https://www.redhat.com/en/blog/what-aiml-and-why-does-it-matter-your-business" target='_blank'>ML/AI</a>
                     </div>
                 </div>
             </div>

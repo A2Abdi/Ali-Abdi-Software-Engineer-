@@ -10,7 +10,7 @@ function Header(){
                 <a className="nav-item" href="#projects" id="nav-projects">Projects</a>
                 <a className="nav-item" href="#contact" id="nav-contact">Contact</a>
                 <span className="divider"></span>
-                <a className="nav-item" href="">Resume</a>
+                <a className="nav-item" href="https://drive.google.com/file/d/1z3ecMDlYeGc3ceNqq-QYMem6ICJVwYqv/view?usp=sharing" target = "_blank">Resume</a>
                 <a className="nav-item" href="https://github.com/A2Abdi" target="_blank">Github</a>
                 <a className="nav-item" href="https://devpost.com/alifeki45" target="_blank">Devpost</a>
             </nav>
