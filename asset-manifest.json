@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Ali-Abdi-Software-Engineer-/static/css/main.4b47341c.css",
-    "main.js": "/Ali-Abdi-Software-Engineer-/static/js/main.17f67989.js",
+    "main.js": "/Ali-Abdi-Software-Engineer-/static/js/main.aa3a1f7d.js",
     "static/media/R6.jpg": "/Ali-Abdi-Software-Engineer-/static/media/R6.8b1248964afeca5a8fd5.jpg",
     "static/media/DrawDoodle.png": "/Ali-Abdi-Software-Engineer-/static/media/DrawDoodle.0da7833cbc0528ac2665.png",
     "static/media/Identify.png": "/Ali-Abdi-Software-Engineer-/static/media/Identify.5dd6d5dabb0b495ca0ff.png",
     "index.html": "/Ali-Abdi-Software-Engineer-/index.html",
     "main.4b47341c.css.map": "/Ali-Abdi-Software-Engineer-/static/css/main.4b47341c.css.map",
-    "main.17f67989.js.map": "/Ali-Abdi-Software-Engineer-/static/js/main.17f67989.js.map"
+    "main.aa3a1f7d.js.map": "/Ali-Abdi-Software-Engineer-/static/js/main.aa3a1f7d.js.map"
   },
   "entrypoints": [
     "static/css/main.4b47341c.css",
-    "static/js/main.17f67989.js"
+    "static/js/main.aa3a1f7d.js"
   ]
 }
