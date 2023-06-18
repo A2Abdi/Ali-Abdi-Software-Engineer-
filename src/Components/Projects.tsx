@@ -25,7 +25,7 @@ function Projects(){
                         <div className="projects-item--img">
                             <img src={DrawDoodle} className="projects-item--img--anim"/>
                         </div>
-                        <a href = "https://github.com/A2Abdi">DrawDoodle</a>
+                        <a href = "https://github.com/A2Abdi" target="_blank">DrawDoodle</a>
                         <br/>
                     </a>
                 <span className="text_secondary">An application that captures and predicts numbers/drawings of other peoples Hand writing</span>
@@ -41,7 +41,7 @@ function Projects(){
                         <div className="projects-item--img">
                             <img src={DrawDoodle} className="projects-item--img--anim"/>
                         </div>
-                        <a href = "https://github.com/A2Abdi">MotoShop</a>
+                        <a href = "https://github.com/A2Abdi"target="_blank">MotoShop</a>
                         <br/>
                     </a>
                 <span className="text_secondary">A web shop that sells motorcycle parts and maintainance equipment</span>
