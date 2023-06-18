@@ -7,12 +7,11 @@ import './Styles/base.css';
 import './Styles/main.css';
 import './Styles/normalize.css';
 import './Styles/font-icons.css';
+import ReactGA from "react-ga"
 
+const Tracking_ID = "G-HMTJ26CLKD"
+ReactGA.initialize(Tracking_ID)
 
-
-let name:boolean;
-
-name = true
 const App: React.FC = () =>{
   return (
     <div className="App">
