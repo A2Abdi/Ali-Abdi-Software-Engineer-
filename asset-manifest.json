@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Ali-Abdi-Software-Engineer-/static/css/main.4b47341c.css",
-    "main.js": "/Ali-Abdi-Software-Engineer-/static/js/main.aa3a1f7d.js",
+    "main.css": "/Ali-Abdi-Software-Engineer-/static/css/main.02e2799a.css",
+    "main.js": "/Ali-Abdi-Software-Engineer-/static/js/main.d62ef3c5.js",
+    "static/media/DrawAI-logos.jpeg": "/Ali-Abdi-Software-Engineer-/static/media/DrawAI-logos.9851feb30c5eaf1e5e66.jpeg",
+    "static/media/MotoShop-logos.jpeg": "/Ali-Abdi-Software-Engineer-/static/media/MotoShop-logos.3661239f91d0c5b8ed29.jpeg",
     "static/media/R6.jpg": "/Ali-Abdi-Software-Engineer-/static/media/R6.8b1248964afeca5a8fd5.jpg",
-    "static/media/DrawDoodle.png": "/Ali-Abdi-Software-Engineer-/static/media/DrawDoodle.0da7833cbc0528ac2665.png",
-    "static/media/Identify.png": "/Ali-Abdi-Software-Engineer-/static/media/Identify.5dd6d5dabb0b495ca0ff.png",
+    "static/media/Identifyy-logos.jpeg": "/Ali-Abdi-Software-Engineer-/static/media/Identifyy-logos.2f8b7a4de1d9141e67ea.jpeg",
     "index.html": "/Ali-Abdi-Software-Engineer-/index.html",
-    "main.4b47341c.css.map": "/Ali-Abdi-Software-Engineer-/static/css/main.4b47341c.css.map",
-    "main.aa3a1f7d.js.map": "/Ali-Abdi-Software-Engineer-/static/js/main.aa3a1f7d.js.map"
+    "main.02e2799a.css.map": "/Ali-Abdi-Software-Engineer-/static/css/main.02e2799a.css.map",
+    "main.d62ef3c5.js.map": "/Ali-Abdi-Software-Engineer-/static/js/main.d62ef3c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b47341c.css",
-    "static/js/main.aa3a1f7d.js"
+    "static/css/main.02e2799a.css",
+    "static/js/main.d62ef3c5.js"
   ]
 }
