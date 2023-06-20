@@ -73,7 +73,7 @@ h1 {
 }
 
 .projects-item--img img {
-    width: auto;
+    width: 100%;
     max-width: auto;
     height: 14rem;
 
