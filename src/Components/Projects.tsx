@@ -53,6 +53,7 @@ function Projects(){
                         <a href="https://nodejs.org/en" target='_blank'>NodeJS</a>
                         <a href="https://www.typescriptlang.org/" target='_blank'>Typescript</a>
                         <a href="https://firebase.google.com/" target='_blank'>Firebase</a>
+                        <br/>
                         <a href="https://analytics.google.com" target='_blank'>Google Analytics</a>
                     </div>
                 </div>
