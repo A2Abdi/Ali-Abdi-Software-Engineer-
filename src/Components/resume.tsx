@@ -13,7 +13,7 @@ function Resume() {
                 <span className="inverse-h2">Skills</span>
                 <span className="inverse-body">
                     I have extensive experience in <b>Web development</b> and <b>backend</b> development utilizing <b>Java, C, C++, and Python</b>. 
-                    In addition to knowledge of databases like <b>MongoDB Atlas and Google Analytics </b>
+                    In addition to knowledge of databases like <b>MongoDB Atlas and Firebase </b>
                         <br/> <br/>
                     I have also experience in ML and Computer Vision using <b>TensorFlow, openCV, pandas, and Numpy </b> with <b>
                     <b>Python and some C++</b>

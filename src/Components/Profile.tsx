@@ -1,5 +1,5 @@
 import Resume from './resume'
-import img from './Images/ALI .jpg'
+import img from './Images/one card pic.jpg'
 function Profile() {
     return (
         <section className="content content--section content--section-fw content--main no-margin-r" id="top">
