@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Ali-Abdi-Software-Engineer-/static/css/main.02e2799a.css",
-    "main.js": "/Ali-Abdi-Software-Engineer-/static/js/main.b4aa811c.js",
+    "main.js": "/Ali-Abdi-Software-Engineer-/static/js/main.a9052abc.js",
+    "static/media/one card pic.jpg": "/Ali-Abdi-Software-Engineer-/static/media/one card pic.b378a22796738e9283ca.jpg",
     "static/media/DrawAI-logos.jpeg": "/Ali-Abdi-Software-Engineer-/static/media/DrawAI-logos.9851feb30c5eaf1e5e66.jpeg",
     "static/media/MotoShop-logos.jpeg": "/Ali-Abdi-Software-Engineer-/static/media/MotoShop-logos.3661239f91d0c5b8ed29.jpeg",
     "static/media/Ali Abdi-logos.jpeg": "/Ali-Abdi-Software-Engineer-/static/media/Ali Abdi-logos.6435b58bff1039436f7c.jpeg",
     "static/media/Identifyy-logos.jpeg": "/Ali-Abdi-Software-Engineer-/static/media/Identifyy-logos.2f8b7a4de1d9141e67ea.jpeg",
-    "static/media/ALI .jpg": "/Ali-Abdi-Software-Engineer-/static/media/ALI .6e3418ff9aed3b1538ac.jpg",
     "index.html": "/Ali-Abdi-Software-Engineer-/index.html",
     "main.02e2799a.css.map": "/Ali-Abdi-Software-Engineer-/static/css/main.02e2799a.css.map",
-    "main.b4aa811c.js.map": "/Ali-Abdi-Software-Engineer-/static/js/main.b4aa811c.js.map"
+    "main.a9052abc.js.map": "/Ali-Abdi-Software-Engineer-/static/js/main.a9052abc.js.map"
   },
   "entrypoints": [
     "static/css/main.02e2799a.css",
-    "static/js/main.b4aa811c.js"
+    "static/js/main.a9052abc.js"
   ]
 }
