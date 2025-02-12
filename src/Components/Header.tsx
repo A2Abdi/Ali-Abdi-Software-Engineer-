@@ -28,7 +28,7 @@ const Header = () => {
     
                 <span className ="divider"></span>
     
-                <a className="nav-item" href="https://drive.google.com/file/d/1z3ecMDlYeGc3ceNqq-QYMem6ICJVwYqv/view?usp=sharing" target = "_blank" rel="noopener noreferrer">Resume</a>
+                <a className="nav-item" href="https://drive.google.com/file/d/1SnNvSirke0l16GFRQGvZT5TgDcD9dt-b/view?usp=sharing" target = "_blank" rel="noopener noreferrer">Resume</a>
     
                 <a className="nav-item" href="https://github.com/A2Abdi" target="_blank" rel="noopener noreferrer">Github</a>
     
