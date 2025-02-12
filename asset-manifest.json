@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Ali-Abdi-Software-Engineer/static/css/main.0959d6b3.css",
-    "main.js": "/Ali-Abdi-Software-Engineer/static/js/main.690cb03a.js",
-    "static/media/D3Port.png": "/Ali-Abdi-Software-Engineer/static/media/D3Port.8dc3a65e2fe5804c43c5.png",
-    "static/media/WSU.png": "/Ali-Abdi-Software-Engineer/static/media/WSU.59c0313328b791c63a23.png",
-    "static/media/PortWave.webp": "/Ali-Abdi-Software-Engineer/static/media/PortWave.5f01e2fe2111d7cd10b1.webp",
-    "static/media/TrackerApp.webp": "/Ali-Abdi-Software-Engineer/static/media/TrackerApp.f88d30c15fb006db528e.webp",
-    "static/media/DrawAI-logos.jpeg": "/Ali-Abdi-Software-Engineer/static/media/DrawAI-logos.9851feb30c5eaf1e5e66.jpeg",
-    "static/media/mandelia.png": "/Ali-Abdi-Software-Engineer/static/media/mandelia.a27bd87a20fd22bbb7dd.png",
-    "static/media/Portfolio.webp": "/Ali-Abdi-Software-Engineer/static/media/Portfolio.3b7ae66a07db68dbd852.webp",
-    "static/media/Wallkey.webp": "/Ali-Abdi-Software-Engineer/static/media/Wallkey.607781c9138f1406edce.webp",
-    "static/media/Identifyy-logos.jpeg": "/Ali-Abdi-Software-Engineer/static/media/Identifyy-logos.2f8b7a4de1d9141e67ea.jpeg",
-    "static/media/Ali.jpg": "/Ali-Abdi-Software-Engineer/static/media/Ali.6e3418ff9aed3b1538ac.jpg",
-    "static/media/Github.png": "/Ali-Abdi-Software-Engineer/static/media/Github.ed1c06d925fff0b57e32.png",
-    "index.html": "/Ali-Abdi-Software-Engineer/index.html",
-    "main.0959d6b3.css.map": "/Ali-Abdi-Software-Engineer/static/css/main.0959d6b3.css.map",
-    "main.690cb03a.js.map": "/Ali-Abdi-Software-Engineer/static/js/main.690cb03a.js.map"
+    "main.css": "/Ali-Abdi-Software-Engineer-/static/css/main.0959d6b3.css",
+    "main.js": "/Ali-Abdi-Software-Engineer-/static/js/main.78b611b6.js",
+    "static/media/D3Port.png": "/Ali-Abdi-Software-Engineer-/static/media/D3Port.8dc3a65e2fe5804c43c5.png",
+    "static/media/WSU.png": "/Ali-Abdi-Software-Engineer-/static/media/WSU.59c0313328b791c63a23.png",
+    "static/media/PortWave.webp": "/Ali-Abdi-Software-Engineer-/static/media/PortWave.5f01e2fe2111d7cd10b1.webp",
+    "static/media/TrackerApp.webp": "/Ali-Abdi-Software-Engineer-/static/media/TrackerApp.f88d30c15fb006db528e.webp",
+    "static/media/DrawAI-logos.jpeg": "/Ali-Abdi-Software-Engineer-/static/media/DrawAI-logos.9851feb30c5eaf1e5e66.jpeg",
+    "static/media/mandelia.png": "/Ali-Abdi-Software-Engineer-/static/media/mandelia.a27bd87a20fd22bbb7dd.png",
+    "static/media/Portfolio.webp": "/Ali-Abdi-Software-Engineer-/static/media/Portfolio.3b7ae66a07db68dbd852.webp",
+    "static/media/Wallkey.webp": "/Ali-Abdi-Software-Engineer-/static/media/Wallkey.607781c9138f1406edce.webp",
+    "static/media/Identifyy-logos.jpeg": "/Ali-Abdi-Software-Engineer-/static/media/Identifyy-logos.2f8b7a4de1d9141e67ea.jpeg",
+    "static/media/Ali.jpg": "/Ali-Abdi-Software-Engineer-/static/media/Ali.6e3418ff9aed3b1538ac.jpg",
+    "static/media/Github.png": "/Ali-Abdi-Software-Engineer-/static/media/Github.ed1c06d925fff0b57e32.png",
+    "index.html": "/Ali-Abdi-Software-Engineer-/index.html",
+    "main.0959d6b3.css.map": "/Ali-Abdi-Software-Engineer-/static/css/main.0959d6b3.css.map",
+    "main.78b611b6.js.map": "/Ali-Abdi-Software-Engineer-/static/js/main.78b611b6.js.map"
   },
   "entrypoints": [
     "static/css/main.0959d6b3.css",
-    "static/js/main.690cb03a.js"
+    "static/js/main.78b611b6.js"
   ]
 }
