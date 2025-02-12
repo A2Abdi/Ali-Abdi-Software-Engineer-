@@ -1,31 +1,16 @@
-const projects = document.getElementById("projects");
-const contact = document.getElementById("contact");
+document.querySelectorAll("nav a").forEach(link => {
 
-const nav_home = document.getElementById("nav-home");
-const nav_projects = document.getElementById("nav-projects");
-const nav_contact = document.getElementById("nav-contact");
+    
+    link.addEventListener("click", (event) => {
+    
+        event.preventDefault();
 
-const nav__all = [nav_home, nav_projects, nav_contact];
+        const targetId = link.getAttribute("href").substring(1);
+        
+        const targetSection = document.getElementById(targetId);
 
-let selected = "nav-home";
-
-function onPageChange(newSelected) {
-    if(selected === newSelected)
-        return;
-    selected = newSelected;
-
-    nav__all.forEach(it => it.classList.remove("nav-item--current"));
-    const item = nav__all.find(it => it.id === newSelected);
-    if(item)
-        item.classList.add("nav-item--current");
-}
-
-document.addEventListener("scroll", () => {
-    if(window.pageYOffset >= contact.offsetTop - contact.offsetHeight / 4) {
-        onPageChange("nav-contact");
-    } else if(window.pageYOffset >= projects.offsetTop - projects.offsetHeight / 4) {
-        onPageChange("nav-projects");
-    } else {
-        onPageChange("nav-home");
-    }
+        if (targetSection) {
+            targetSection.scrollIntoView({ behavior: "smooth" });
+        }
+    });
 });
