@@ -1,0 +1,52 @@
+.container_contact{
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-content: center;
+
+    text-align: center;
+
+    padding: 12% 0%;
+}
+
+.contact_main{
+
+    display: inline-block;
+
+    text-align: center;
+
+    white-space: nowrap;
+}
+
+.content__text {
+
+    font-size: 0.865em;
+
+    font-weight: normal;
+
+    width: 100%;
+
+    margin: 0 1em 1em 1em;
+}
+
+.content__text:last-of-type {
+
+    padding-top: 1em;
+
+}
+
+.email__text {
+
+    text-align: center;
+
+    text-decoration: underline;
+
+}
+
+.email__text:last-of-type {
+
+    margin: 0 0 5em 0;
+
+}
